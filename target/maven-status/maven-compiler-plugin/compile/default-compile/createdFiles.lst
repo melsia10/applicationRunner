@@ -1,0 +1,11 @@
+be\technifutur\MVC\applicationRunner\TestEnvironment.class
+be\technifutur\MVC\MVCFactory.class
+be\technifutur\MVC\Vue.class
+be\technifutur\MVC\applicationRunner\ConsoleEnvironment.class
+be\technifutur\MVC\ApplicationMVC.class
+be\technifutur\MVC\applicationRunner\Environment.class
+be\technifutur\MVC\applicationRunner\InteractiveApplication.class
+be\technifutur\MVC\applicationRunner\InteractiveRunner.class
+be\technifutur\MVC\applicationRunner\NullEnvironmentException.class
+be\technifutur\MVC\Controleur.class
+be\technifutur\MVC\MVCFramework.class
